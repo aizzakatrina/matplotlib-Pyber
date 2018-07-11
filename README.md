@@ -1,5 +1,7 @@
 # Rideshare Analysis
 
+ Source code: [main.ipynb!](main.ipynb)
+
  ![Ride Sharing Data for 2016](/images/ride_share.png)
 
  The average fare in urban cities are somewhat equal to or less than the average fares in rural and suburban cities. The average fare in suburban cities are concentrated in a range between the average fare of the other city types, while the average fare for rural cities are dispersed over an even larger range.
