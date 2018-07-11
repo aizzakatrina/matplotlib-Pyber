@@ -1,6 +1,6 @@
 # Rideshare Analysis
 
- Source code: [main.ipynb](main.ipynb)
+ Source code file: [main.ipynb](main.ipynb)
 
  ![Ride Sharing Data for 2016](/images/ride_share.png)
 
