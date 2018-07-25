@@ -18,10 +18,6 @@ The total number of rides per city, as well as the total count of drivers per ci
 
  Source code file: [main.ipynb](main.ipynb)
 
- 
-# Rideshare Analysis
-
-
 ```python
 # Dependencies
 import pandas as pd
